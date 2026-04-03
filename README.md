@@ -163,3 +163,25 @@ UIP 補上了 AI 缺失的關鍵層：
 
 在更複雜流程中，理論可進一步提升至數倍以上（依場景而定）
 
+
+---
+
+## 與現有 AI 的核心差異
+
+現有 AI 系統：
+
+- 依賴多輪推理（multi-step reasoning）
+- 決策延遲高（high latency）
+- 每次輸出不穩定（inconsistent outputs）
+- 難以直接接入營運流程
+
+UIP：
+
+- 單次決策輸出（single-pass decision）
+- 決策延遲顯著降低（low latency）
+- 結果結構化且可重複（structured & consistent）
+- 可直接接入 MCP / workflow / 自動化系統
+
+👉 本質差異不是「更聰明」
+👉 而是「決策方式的改變」
+
