@@ -10,6 +10,8 @@
 
 # Universal Indicator Protocol
 
+> Universal Indicator Protocol — A quasi-quantum state abstraction layer for transforming raw data into decision-readable intelligence.
+
 ## English
 Universal Indicator Protocol is a protocol-oriented framework for transforming heterogeneous raw data into normalized, comparable, and decision-readable indicators.
 
